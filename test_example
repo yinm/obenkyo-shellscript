@@ -1,0 +1,6 @@
+#!/bin/sh
+
+if test -r abcaaa
+then
+  echo "The file exists and I can read it."
+fi
