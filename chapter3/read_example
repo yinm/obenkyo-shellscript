@@ -1,0 +1,4 @@
+#!/bin/sh
+echo -n "enter yes or no --> "
+read ANSWER
+echo 'Your Answer is' $ANSWER
